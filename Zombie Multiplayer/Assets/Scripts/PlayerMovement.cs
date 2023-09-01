@@ -26,7 +26,7 @@ public class PlayerMovement : MonoBehaviourPun {
         }
 
         // 회전 실행
-        Rotate();
+        Rotate(); 
         // 움직임 실행
         Move();
 
